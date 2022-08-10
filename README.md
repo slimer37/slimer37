@@ -1,5 +1,9 @@
 ### Who goes there?
 
+Wishlist [Counter Chaos](https://store.steampowered.com/app/1835160/Counter_Chaos/)!
+
+See my [blog](https://slimer37.github.io/blog)!
+
 <!--
 **slimer37/slimer37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
