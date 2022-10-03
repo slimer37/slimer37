@@ -1,7 +1,5 @@
 ### Who goes there?
 
-Wishlist [Counter Chaos](https://store.steampowered.com/app/1835160/Counter_Chaos/)!
-
 See my [blog](https://slimer37.github.io/blog)!
 
 <!--
