@@ -1,6 +1,6 @@
 ### Who goes there?
 
-See my [blog](https://slimer37.github.io/blog)!
+See my [blog](https://slimer37.me/#/blog)!
 
 <!--
 **slimer37/slimer37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
