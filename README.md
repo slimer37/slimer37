@@ -2,6 +2,8 @@
 
 See my [blog](https://slimer37.me/#/blog)!
 
+And my [itch.io page](https://slimer37.itch.io/)!
+
 <!--
 **slimer37/slimer37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
