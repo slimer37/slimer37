@@ -1,6 +1,6 @@
 ### Who goes there?
 
-See my [blog](https://slimer37.me/#/blog)!
+See my [website](https://slimer37.com/)!
 
 And my [itch.io page](https://slimer37.itch.io/)!
 
