@@ -4,6 +4,8 @@ See my [website](https://slimer37.com/)!
 
 And my [itch.io page](https://slimer37.itch.io/)!
 
+Also, check [this animation test](https://www.youtube.com/watch?v=XOmTZZrjrbM) out! (arachnophobia warning)
+
 ## Currently working on
 [<img src="assets/retailer.png">](https://store.steampowered.com/app/4048370/Retailer/)
 
